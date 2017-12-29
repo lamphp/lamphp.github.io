@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>DanHen</title>
+  <title>弹痕</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://lamphp.github.io/"/>
   <updated>2017-12-29T11:55:20.056Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://lamphp.github.io/</id>
+  
+  <author>
+    <name>弹痕</name>
+    
+  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/29/hello-world/"/>
-    <id>http://yoursite.com/2017/12/29/hello-world/</id>
+    <link href="http://lamphp.github.io/2017/12/29/hello-world/"/>
+    <id>http://lamphp.github.io/2017/12/29/hello-world/</id>
     <published>2017-12-29T11:55:20.056Z</published>
     <updated>2017-12-29T11:55:20.056Z</updated>
     
