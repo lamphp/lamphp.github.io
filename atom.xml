@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://lamphp.github.io/"/>
+  <link href="http://danhen.github.io/"/>
   <updated>2017-12-29T11:55:20.056Z</updated>
-  <id>http://lamphp.github.io/</id>
+  <id>http://danhen.github.io/</id>
   
   <author>
     <name>弹痕</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lamphp.github.io/2017/12/29/hello-world/"/>
-    <id>http://lamphp.github.io/2017/12/29/hello-world/</id>
+    <link href="http://danhen.github.io/2017/12/29/hello-world/"/>
+    <id>http://danhen.github.io/2017/12/29/hello-world/</id>
     <published>2017-12-29T11:55:20.056Z</published>
     <updated>2017-12-29T11:55:20.056Z</updated>
     
