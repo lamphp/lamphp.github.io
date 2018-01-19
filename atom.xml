@@ -44,6 +44,31 @@
   
   <entry>
     <title>scrapy多spider运行</title>
+    <link href="http://lamphp.github.io/2018/01/08/windows%E3%80%81mac%E3%80%81android%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91shadowsocks%E6%95%99%E7%A8%8B/"/>
+    <id>http://lamphp.github.io/2018/01/08/windows、mac、android科学上网shadowsocks教程/</id>
+    <published>2018-01-08T12:18:24.000Z</published>
+    <updated>2018-01-19T14:05:15.804Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、windows教程"><a href="#一、windows教程" class="headerlink" title="一、windows教程"></a>一、windows教程</h1><p>以chrome 为例：</p><ol><li>安装SwitchyOmega插件<br>下载地址：链接: <a href="https://pan.baidu.com/s/1qZAm9ly" target="_blank" rel="noopener">https://pan.baidu.com/s/1qZAm9ly</a> 密码: fr8j，包含三个文件，SwitchyOmega.crx、SwitchyOptions.bak、shadowsocks-gui-0.6.0-win-ia32.tar.xz，分别是chrome插件、规则、windows gui客户端。<br>将SwitchyOmega.crx “crx”后缀改为”zip”, 即SwitchyOmega.zip，然后解压。chrome右上角选择更多工具》扩展程序，点击左上角的开发者模式，点击“加载已解压的扩展程序”，选择刚才解压的SwitchyOmega目录打开。</li></ol><p>2.设置SwitchyOmega，点击左边“导入/导出”，“从备份文件恢复”，选择SwitchyOptions.bak文件导入，选择左边自动切换，选中autoproxy模式，“规则列表网址” 填写<a href="https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt，点击“应用选项”按钮" target="_blank" rel="noopener">https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt，点击“应用选项”按钮</a>, 浏览器右上角点击switchomgea选中自动切换。</p><p>3.打开windows客户端，解压shadowsocks-gui-0.6.0-win-ia32.tar.xz<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx3.sinaimg.cn/mw690/771d3173gy1fnm9i0oysaj20ag0d1q32.jpg" alt="image" title="">                </div>                <div class="image-caption">image</div>            </figure><br>填好ip、port、passsword保存即可</p><h1 id="二、android手机教程"><a href="#二、android手机教程" class="headerlink" title="二、android手机教程"></a>二、android手机教程</h1><p>下载地址：<a href="https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.4.5/shadowsocks-nightly-4.4.5.apk" target="_blank" rel="noopener">https://github.com/shadowsocks/shadowsocks-android/releases/download/v4.4.5/shadowsocks-nightly-4.4.5.apk</a><br>设置：<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx1.sinaimg.cn/mw690/771d3173gy1fnm9c9jhz3j20u01hcmyd.jpg" alt="image" title="">                </div>                <div class="image-caption">image</div>            </figure><br>填好服务器、端口、密码即可</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;一、windows教程&quot;&gt;&lt;a href=&quot;#一、windows教程&quot; class=&quot;headerlink&quot; title=&quot;一、windows教程&quot;&gt;&lt;/a&gt;一、windows教程&lt;/h1&gt;&lt;p&gt;以chrome 为例：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装Switchy
+      
+    
+    </summary>
+    
+    
+      <category term="shadowsocks" scheme="http://lamphp.github.io/tags/shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>scrapy多spider运行</title>
     <link href="http://lamphp.github.io/2018/01/08/scrapy%E5%A4%9Aspider%E8%BF%90%E8%A1%8C/"/>
     <id>http://lamphp.github.io/2018/01/08/scrapy多spider运行/</id>
     <published>2018-01-08T12:18:24.000Z</published>
